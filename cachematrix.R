@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Caching the Inverse of a Matrix
+## Caching the Inverse of a Matrix, updated
 
 makeCacheMatrix <- function(x=matrix()){
         matrix <- NULL
